@@ -1,6 +1,6 @@
 ## Hello! I`m beginner Frontend Developer
 
-#### My name is Ivan. I have been doing frontend development for more than 2 years.
+#### My name is Ivan. I have been doing frontend development for more than 2 years. In the course of my work, I strive not only to improve my skills, but also to master new technologies and approaches. My goal is to continue to develop in this field, deepen my knowledge and contribute to the creation of beautiful and functional web applications. I believe that constant learning and self—improvement is the key to success in the rapidly changing world of technology. 
 
 ### Languages and Tools
 ![HTML5]( https://img.shields.io/badge/-HTML5-090909?style=for-the-badge&logo=HTML5&logoColor=ORANGE)
@@ -23,14 +23,3 @@
 ### My Stats
 ![GitHub Stat](https://github-readme-stats.vercel.app/api?username=sk1wz&show_icons=true&theme=tokyonight)
 
-
-
-### My latest works
-<div style="display: flex; justify-content: space-between;">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" alt="Readme Card" />
-    </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" alt="Readme Card" />
-    </a>
-</div>
