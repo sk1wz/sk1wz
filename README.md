@@ -10,7 +10,7 @@
 ![TypeScript]( https://img.shields.io/badge/-Typescript-090909?style=for-the-badge&logo=Typescript)
 ![Sass]( https://img.shields.io/badge/-Sass-090909?style=for-the-badge&logo=Sass)
 
-#### Had experience  with:
+### Had experience  with:
 ![Next]( https://img.shields.io/badge/-Next-090909?style=for-the-badge&logo=Next.js&logoColor=FFFFF)
 ![PHP]( https://img.shields.io/badge/-PHP-090909?style=for-the-badge&logo=PHP)
 ![Vue]( https://img.shields.io/badge/-Vue-090909?style=for-the-badge&logo=Vue.js)
