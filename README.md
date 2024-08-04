@@ -16,10 +16,21 @@
 ![Vue]( https://img.shields.io/badge/-Vue-090909?style=for-the-badge&logo=Vue.js)
 
 
+### Follow me 
+[![VKONTAKTE]( https://img.shields.io/badge/-VKONTAKTE-090909?style=for-the-badge&logo=VK&logoColor=42AAFF)](https://vk.com/sk1wz)
+[![TELEGRAMM]( https://img.shields.io/badge/-TELEGRAM-090909?style=for-the-badge&logo=TELEGRAM)](https://vk.com/sk1wz)
+
 ### My Stats
 ![GitHub Stat](https://github-readme-stats.vercel.app/api?username=sk1wz&show_icons=true&theme=tokyonight)
 
 
-### My latest work
-[![Latest work](https://github-readme-stats.vercel.app/api/pin/?username=sk1wz&repo=Educational_Platform)](https://github.com/s/Educational_Platform)
 
+### My latest works
+<div style="display: flex; justify-content: space-between;">
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" alt="Readme Card" />
+    </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" alt="Readme Card" />
+    </a>
+</div>
