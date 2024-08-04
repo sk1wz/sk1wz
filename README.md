@@ -17,9 +17,9 @@
 
 
 ### My Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sk1wz&show_icons=true&theme=tokyonight)
+![GitHub Stat](https://github-readme-stats.vercel.app/api?username=sk1wz&show_icons=true&theme=tokyonight)
 
 
 ### My latest work
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sk1wz&repo=Educational_Platform)](https://github.com/s/Educational_Platform)
+[![Latest work](https://github-readme-stats.vercel.app/api/pin/?username=sk1wz&repo=Educational_Platform)](https://github.com/s/Educational_Platform)
 
