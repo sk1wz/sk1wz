@@ -17,7 +17,6 @@
 
 
 ### Follow me 
-[![VKONTAKTE]( https://img.shields.io/badge/-VKONTAKTE-090909?style=for-the-badge&logo=VK&logoColor=42AAFF)](https://vk.com/sk1wz)
 [![TELEGRAMM]( https://img.shields.io/badge/-TELEGRAM-090909?style=for-the-badge&logo=TELEGRAM)](https://vk.com/sk1wz)
 
 ### My Stats
