@@ -1,6 +1,6 @@
 ## Hello! I`m beginner Frontend Developer
 
-#### My name is Ivan. I have been doing frontend development for more than 2 years. In the course of my work, I strive not only to improve my skills, but also to master new technologies and approaches. My goal is to continue to develop in this field, deepen my knowledge and contribute to the creation of beautiful and functional web applications. I believe that constant learning and self—improvement is the key to success in the rapidly changing world of technology. 
+#### My name is Ivan. I have been doing frontend development for more than 2 years.
 
 ### Languages and Tools
 ![HTML5]( https://img.shields.io/badge/-HTML5-090909?style=for-the-badge&logo=HTML5&logoColor=ORANGE)
