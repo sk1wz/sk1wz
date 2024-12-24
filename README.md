@@ -18,6 +18,7 @@
 
 ### Follow me 
 [![TELEGRAMM]( https://img.shields.io/badge/-TELEGRAM-090909?style=for-the-badge&logo=TELEGRAM)](https://t.me/sk1wz)
+[![TELEGRAMM Channel]( https://img.shields.io/badge/-TELEGRAM-090909?style=for-the-badge&logo=TELEGRAM)](https://t.me/sk1wzDev)
 
 ### My Stats
 ![GitHub Stat](https://github-readme-stats.vercel.app/api?username=sk1wz&show_icons=true&theme=tokyonight)
