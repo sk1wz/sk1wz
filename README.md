@@ -16,8 +16,9 @@
 ![Vue]( https://img.shields.io/badge/-Vue-090909?style=for-the-badge&logo=Vue.js)
 
 
-### Follow me 
+### Follow me Telegram 
 [![TELEGRAM]( https://img.shields.io/badge/-TELEGRAM-090909?style=for-the-badge&logo=TELEGRAM)](https://t.me/sk1wz)
+### Follow me Telegram Channel
 [![TELEGRAM Channel]( https://img.shields.io/badge/-TELEGRAM-090909?style=for-the-badge&logo=TELEGRAM)](https://t.me/sk1wzDev)
 
 ### My Stats
