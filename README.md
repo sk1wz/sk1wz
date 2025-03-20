@@ -14,6 +14,7 @@
 ![Next]( https://img.shields.io/badge/-Next-090909?style=for-the-badge&logo=Next.js&logoColor=FFFFF)
 ![PHP]( https://img.shields.io/badge/-PHP-090909?style=for-the-badge&logo=PHP)
 ![Vue]( https://img.shields.io/badge/-Vue-090909?style=for-the-badge&logo=Vue.js)
+![C++]( https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=C++)
 
 
 ### Follow me Telegram 
