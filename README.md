@@ -1,6 +1,6 @@
-## Hello! I`m beginner Frontend Developer
+## Hello! I`m Frontend Developer
 
-#### My name is Ivan. I have been doing frontend development for more than 2 years.
+#### My name is Ivan.
 
 ### Languages and Tools
 ![HTML5]( https://img.shields.io/badge/-HTML5-090909?style=for-the-badge&logo=HTML5&logoColor=ORANGE)
