@@ -1,6 +1,6 @@
 ## Hello! I`m Frontend Developer
 
-#### My name is Ivan.
+#### My name is Ivan. Many repositories are hidden!
 
 ### Languages and Tools
 ![HTML5]( https://img.shields.io/badge/-HTML5-090909?style=for-the-badge&logo=HTML5&logoColor=ORANGE)
