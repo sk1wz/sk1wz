@@ -9,6 +9,7 @@
 ![React]( https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=React)
 ![TypeScript]( https://img.shields.io/badge/-Typescript-090909?style=for-the-badge&logo=Typescript)
 ![Sass]( https://img.shields.io/badge/-Sass-090909?style=for-the-badge&logo=Sass)
+![TailwindCSS]( https://img.shields.io/badge/-TailwindCSS-090909?style=for-the-badge&logo=TailwindCSS)
 
 ### Had experience  with:
 ![Next]( https://img.shields.io/badge/-Next-090909?style=for-the-badge&logo=Next.js&logoColor=FFFFF)
