@@ -1,4 +1,4 @@
-## Hello! I`m Frontend Developer
+## Frontend Developer
 
 #### Many repositories are hidden!
 
