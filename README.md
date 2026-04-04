@@ -20,10 +20,6 @@
 
 
 
-### Follow me Telegram 
-[![TELEGRAM]( https://img.shields.io/badge/-TELEGRAM-090909?style=for-the-badge&logo=TELEGRAM)](https://t.me/sk1wz)
-
-
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Flowseal/Flowseal/refs/heads/output/github-contribution-grid-snake-dark.svg" />
