@@ -1,30 +1,34 @@
-## Frontend Developer
-
-#### Many repositories are hidden!
-
-### Languages and Tools
-![HTML5]( https://img.shields.io/badge/-HTML5-090909?style=for-the-badge&logo=HTML5&logoColor=ORANGE)
-![CSS3]( https://img.shields.io/badge/-CSS3-090909?style=for-the-badge&logo=CSS3&logoColor=42aaff)
-![CSS3]( https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript)
-![React]( https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=React)
-![TypeScript]( https://img.shields.io/badge/-Typescript-090909?style=for-the-badge&logo=Typescript)
-![Sass]( https://img.shields.io/badge/-Sass-090909?style=for-the-badge&logo=Sass)
-![TailwindCSS]( https://img.shields.io/badge/-TailwindCSS-090909?style=for-the-badge&logo=TailwindCSS)
-
-### Had experience  with:
-![Next]( https://img.shields.io/badge/-Next-090909?style=for-the-badge&logo=Next.js&logoColor=FFFFF)
-![PHP]( https://img.shields.io/badge/-PHP-090909?style=for-the-badge&logo=PHP)
-![Vue]( https://img.shields.io/badge/-Vue-090909?style=for-the-badge&logo=Vue.js)
-![Electron]( https://img.shields.io/badge/-Electron-090909?style=for-the-badge&logo=Electron)
-
-
-
+<!-- Баннер -->
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Flowseal/Flowseal/refs/heads/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Flowseal/Flowseal/refs/heads/output/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/Flowseal/Flowseal/refs/heads/output/github-contribution-grid-snake.svg" />
-  </picture>
+  <img src="https://user-images.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/assets/banner.png" alt="banner" width="100%"/>
 </p>
 
+<!-- Анимированное приветствие -->
+<h1 align="center">
+  Привет! 👋 Я — Ivan
+</h1>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+views&color=0e75b6&style=flat" alt="profile views"/>
+</p>
+
+<p align="center">
+  <a href="https://github.com/YOUR_USERNAME">
+    <img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Follow&style=social" alt="Follow"/>
+  </a>
+</p>
+
+---
+
+## 🧑‍💻 Обо мне
+
+```js
+const ivan = {
+  name: "Ivan",
+  role: "Frontend Developer",
+  location: "Россия 🇺",
+  focus: ["React", "Next.js", "TypeScript"],
+  currentlyLearning: ["Babylon.js", "NestJS"],
+  funFact: "Люблю чистый код и красивый UI ✨",
+  available: true
+};
