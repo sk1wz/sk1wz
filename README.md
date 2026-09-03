@@ -1,54 +1,30 @@
-<!-- Анимированное приветствие -->
-<h1 align="center">
-  Привет! 👋 Я — Ivan
-</h1>
+## Frontend Developer
+
+#### Many repositories are hidden!
+
+### Languages and Tools
+![HTML5]( https://img.shields.io/badge/-HTML5-090909?style=for-the-badge&logo=HTML5&logoColor=ORANGE)
+![CSS3]( https://img.shields.io/badge/-CSS3-090909?style=for-the-badge&logo=CSS3&logoColor=42aaff)
+![CSS3]( https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript)
+![React]( https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=React)
+![TypeScript]( https://img.shields.io/badge/-Typescript-090909?style=for-the-badge&logo=Typescript)
+![Sass]( https://img.shields.io/badge/-Sass-090909?style=for-the-badge&logo=Sass)
+![TailwindCSS]( https://img.shields.io/badge/-TailwindCSS-090909?style=for-the-badge&logo=TailwindCSS)
+
+### Had experience  with:
+![Next]( https://img.shields.io/badge/-Next-090909?style=for-the-badge&logo=Next.js&logoColor=FFFFF)
+![PHP]( https://img.shields.io/badge/-PHP-090909?style=for-the-badge&logo=PHP)
+![Vue]( https://img.shields.io/badge/-Vue-090909?style=for-the-badge&logo=Vue.js)
+![Electron]( https://img.shields.io/badge/-Electron-090909?style=for-the-badge&logo=Electron)
+
+
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sk1wz&label=Profile+views&color=0e75b6&style=flat" alt="profile views"/>
-</p>
-
-<p align="center">
-  <a href="https://github.com/sk1wz">
-    <img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Follow&style=social" alt="Follow"/>
-  </a>
-</p>
-
----
-
-
-🛠 Технологии и инструменты
-Frontend
-<p align="center">
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/-Sass-090909?style=for-the-badge&logo=Sass" alt="Sass"/>
-<img src="https://img.shields.io/badge/Zustand-000000?style=for-the-badge&logo=zustand&logoColor=white" alt="Zustand"/>
-<img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux"/>
-<img src="https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white" alt="Zod"/>
-<img src="https://img.shields.io/badge/Babylon.js-828282?style=for-the-badge&logo=babylon.js&logoColor=white" alt="Babylon.js"/>
-<img src="https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white" alt="Electron"/>
-</p>
-
-Backend & DevOps
-<p align="center">
-<img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Flowseal/Flowseal/refs/heads/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Flowseal/Flowseal/refs/heads/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/Flowseal/Flowseal/refs/heads/output/github-contribution-grid-snake.svg" />
+  </picture>
 </p>
 
 
-🤝 Связаться со мной
-<p align="center">
-<a href="https://t.me/ТВОЙ_ТЕЛЕГРАМ">
-<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
-</a>
-<a href="mailto:твоя@почта.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-<a href="https://linkedin.com/in/ТВОЙ_ЛИНКЕДИН">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-</p>
