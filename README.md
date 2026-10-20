@@ -48,7 +48,6 @@ Also worked with Next.js, Vue, PHP, Electron, Motion, Swiper, UI libraries and t
 
 ### Contacts
 
-- GitHub: [sk1wz](https://github.com/sk1wz)
 - Telegram: [@sk1wz](https://t.me/sk1wz)
 - Email: yurchenko.ivan.work@mail.ru
 - LeetCode: [@sk1wz](https://leetcode.com/u/sk1wz/)
