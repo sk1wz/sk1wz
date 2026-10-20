@@ -8,7 +8,7 @@ Hi! My name is Ivan, I’m 22 years old and have been working in Frontend Develo
 
 - Build responsive user interfaces and integrate them with backend services and APIs.
 - Brought several projects from development to production.
-- Lead Developer of the [Autosintes platform](https://autosintes.ru/).
+- Lead Developer of the [Autosintes B2B platform](https://autosintes.ru/).
 - Conduct code reviews.
 - Create DFD and Use-Case diagrams.
 - Configure code-quality tools: ESLint, Prettier, Knip, jscpd, pre-commit.
