@@ -10,7 +10,6 @@ Hi! My name is Ivan, I’m 22 years old and have been working in Frontend Develo
 - Brought several projects from development to production.
 - Conduct code reviews.
 - Create DFD and Use-Case diagrams.
-- Configure code-quality tools: ESLint, Prettier, Knip, jscpd, pre-commit.
 - Work with Git, Jira, Docker, Postman and Figma.
 - Focused on clean code, professional growth and solving product tasks.
 
