@@ -36,7 +36,7 @@ Hi! My name is Ivan, I’m 22 years old and have been working in Frontend Develo
 
 NestJS, REST API, PostgreSQL, Prisma ORM, Redis and Zod.
 
-### Infrastructure & Code Quality
+### Infrastructure & Code
 
 ![Docker](https://img.shields.io/badge/-Docker-090909?style=for-the-badge&logo=Docker)
 ![Git](https://img.shields.io/badge/-Git-090909?style=for-the-badge&logo=Git)
